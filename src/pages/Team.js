@@ -22,8 +22,8 @@ const Team = () => {
                         {/* <!-- Topbar Navbar --> */}
                         <ul className="navbar-nav ml-auto">
                             <li className="nav-item dropdown no-arrow mx-1">
-                                <Link to={"/"}>
-                                    Homepage
+                            <Link to={"https://imdpune.gov.in/"} target={"_blank"}>
+                                    IMD Bulletin
                                 </Link>
 
                             </li>
