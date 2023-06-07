@@ -15,7 +15,7 @@ const Team = () => {
                     <nav className="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
 
                         <ul>
-                            <Link to={"/"}><li style={{ listStyle: "none", fontWeight: "bold" }}>IOT Based Agricultural Monitoring System</li></Link>
+                            <Link to={"/"}><li style={{ listStyle: "none", fontWeight: "bold" }}>SMARTFIELDS : REVOLUTIONIZING AGRICULTURE WITH IOT-BASED MONITORING AND AUTO-IRRIGATION</li></Link>
                         </ul>
 
 
@@ -36,8 +36,8 @@ const Team = () => {
                             </li>
 
                             <li className="nav-item dropdown no-arrow mx-1">
-                                <Link to={"/"}>
-                                    About
+                                <Link to={"https://ijrar.org/viewfull.php?&p_id=IJRAR23B2783"} target={"_blank"}>
+                                Research Paper
                                 </Link>
 
                             </li>

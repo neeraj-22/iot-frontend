@@ -7,7 +7,7 @@ const Hero = () => {
     <Fragment>
       <div style={{background:"url(https://i.ytimg.com/vi/AtrFRWNJuNY/maxresdefault.jpg)"}}>
       <header className="masthead text-white text-center" style={{backgroundColor:"rgba(0,0,0,0.75)"}}>
-        <h1><b>IOT Based Agricultural Monitoring System</b></h1>
+        <h1><b>SMARTFIELDS : REVOLUTIONIZING AGRICULTURE WITH IOT-BASED MONITORING AND AUTO-IRRIGATION</b></h1>
         <h4>- By Neeraj Gandhi, Kunal Das and Divyansh Agarwal</h4>
         <br/>
         <h4>Applications of the Project</h4>
